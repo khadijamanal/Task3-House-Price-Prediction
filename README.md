@@ -6,6 +6,8 @@ House Price Prediction is a regression project that estimates house prices using
 House Price Prediction is a regression machine learning project that estimates house prices based on features such as area, bedrooms, bathrooms, stories, parking, and location. The goal is to build a model that can accurately predict house prices using historical data.
 
 ## Dataset
+The dataset used in this project is the Housing Prices Dataset, available on Kaggle.
+Housing Prices Dataset
 The dataset contains housing features such as:
 - Area (square footage)
 - Number of bedrooms
