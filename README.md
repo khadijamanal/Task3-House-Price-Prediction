@@ -34,24 +34,20 @@ Model performance is evaluated using:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 
-## 🧪 Results
+##  Results
 The model predicts house prices and compares them with actual values to measure accuracy.
 
-## 🚀 How to Run
+##  How to Run
 1. Load dataset in Jupyter Notebook or Python script
 2. Run preprocessing steps
 3. Train the model
 4. Make predictions
 5. Evaluate using MAE and RMSE
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
----
-
-## 📌 Author
-Machine Learning Internship Project
